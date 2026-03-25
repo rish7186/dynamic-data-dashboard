@@ -42,8 +42,8 @@ A smart and interactive data dashboard built using **Python, Streamlit, and Plot
 
 ## 📷 Screenshots
 
-### 📊 Dashboard
-![Dashboard](dashboard.png)
+### 📊 Category-analysis
+![Dashboard](Category-analysis.png)
 
 ### 📈 Pie Chart
 ![Pie Chart](Pie-chart.png)
