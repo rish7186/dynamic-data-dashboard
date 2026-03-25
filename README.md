@@ -36,7 +36,7 @@ A smart and interactive data dashboard built using **Python, Streamlit, and Plot
 
 ## 🌐 Live Demo
 
-(Add your deployed link here)
+([Click Here For Live Demo](https://dynamic-data-dashboard-bbiambzetswd8hrkdhhpnn.streamlit.app/))
 
 ---
 
